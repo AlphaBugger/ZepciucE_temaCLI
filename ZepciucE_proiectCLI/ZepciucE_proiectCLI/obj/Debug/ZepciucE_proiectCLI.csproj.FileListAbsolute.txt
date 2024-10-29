@@ -9,3 +9,15 @@ C:\Users\eduard\Desktop\TEME\ZepciucEduard_proiectCLI\ZepciucE_proiectCLI\Zepciu
 C:\Users\eduard\Desktop\TEME\ZepciucEduard_proiectCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\obj\Debug\ZepciucE.C9AA449D.Up2Date
 C:\Users\eduard\Desktop\TEME\ZepciucEduard_proiectCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\obj\Debug\ZepciucE_proiectCLI.exe
 C:\Users\eduard\Desktop\TEME\ZepciucEduard_proiectCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\obj\Debug\ZepciucE_proiectCLI.pdb
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\bin\Debug\triangle.txt
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\bin\Debug\ZepciucE_proiectCLI.exe.config
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\bin\Debug\ZepciucE_proiectCLI.exe
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\bin\Debug\ZepciucE_proiectCLI.pdb
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\bin\Debug\OpenTK.dll
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\bin\Debug\OpenTK.pdb
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\bin\Debug\OpenTK.xml
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\obj\Debug\ZepciucE_proiectCLI.csproj.AssemblyReference.cache
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\obj\Debug\ZepciucE_proiectCLI.csproj.CoreCompileInputs.cache
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\obj\Debug\ZepciucE.C9AA449D.Up2Date
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\obj\Debug\ZepciucE_proiectCLI.exe
+C:\Users\eduard\Desktop\TEME\ZepciucE_temaCLI\ZepciucE_proiectCLI\ZepciucE_proiectCLI\obj\Debug\ZepciucE_proiectCLI.pdb

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eduard\\Desktop\\TEME\\ZepciucEduard_proiectCLI\\ZepciucE_proiectCLI\\",
+  "WorkspaceRootPath": "C:\\Users\\eduard\\Desktop\\TEME\\ZepciucE_temaCLI\\ZepciucE_proiectCLI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F1C2C53-044C-4878-844C-26B5DC55BA2B}|ZepciucE_proiectCLI\\ZepciucE_proiectCLI.csproj|c:\\users\\eduard\\desktop\\teme\\zepciuceduard_proiectcli\\zepciuce_proiectcli\\zepciuce_proiectcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F1C2C53-044C-4878-844C-26B5DC55BA2B}|ZepciucE_proiectCLI\\ZepciucE_proiectCLI.csproj|c:\\users\\eduard\\desktop\\teme\\zepciuce_temacli\\zepciuce_proiectcli\\zepciuce_proiectcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F1C2C53-044C-4878-844C-26B5DC55BA2B}|ZepciucE_proiectCLI\\ZepciucE_proiectCLI.csproj|solutionrelative:zepciuce_proiectcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1C2C53-044C-4878-844C-26B5DC55BA2B}|ZepciucE_proiectCLI\\ZepciucE_proiectCLI.csproj|c:\\users\\eduard\\desktop\\teme\\zepciuce_temacli\\zepciuce_proiectcli\\zepciuce_proiectcli\\triangle.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0F1C2C53-044C-4878-844C-26B5DC55BA2B}|ZepciucE_proiectCLI\\ZepciucE_proiectCLI.csproj|solutionrelative:zepciuce_proiectcli\\triangle.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "triangle.txt",
+              "DocumentMoniker": "C:\\Users\\eduard\\Desktop\\TEME\\ZepciucE_temaCLI\\ZepciucE_proiectCLI\\ZepciucE_proiectCLI\\triangle.txt",
+              "RelativeDocumentMoniker": "ZepciucE_proiectCLI\\triangle.txt",
+              "ToolTip": "C:\\Users\\eduard\\Desktop\\TEME\\ZepciucE_temaCLI\\ZepciucE_proiectCLI\\ZepciucE_proiectCLI\\triangle.txt",
+              "RelativeToolTip": "ZepciucE_proiectCLI\\triangle.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T17:32:15.189Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eduard\\Desktop\\TEME\\ZepciucEduard_proiectCLI\\ZepciucE_proiectCLI\\ZepciucE_proiectCLI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduard\\Desktop\\TEME\\ZepciucE_temaCLI\\ZepciucE_proiectCLI\\ZepciucE_proiectCLI\\Program.cs",
               "RelativeDocumentMoniker": "ZepciucE_proiectCLI\\Program.cs",
-              "ToolTip": "C:\\Users\\eduard\\Desktop\\TEME\\ZepciucEduard_proiectCLI\\ZepciucE_proiectCLI\\ZepciucE_proiectCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\eduard\\Desktop\\TEME\\ZepciucE_temaCLI\\ZepciucE_proiectCLI\\ZepciucE_proiectCLI\\Program.cs",
               "RelativeToolTip": "ZepciucE_proiectCLI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAUwKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T18:40:59.822Z",
               "EditorCaption": ""
